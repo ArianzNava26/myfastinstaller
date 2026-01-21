@@ -11,7 +11,6 @@ echo 'Install Nvchad Yuk!'
 echo 'Mencoba Membuat Directory baru /nvim'
 git clone https://github.com/NvChad/starter ~/.config/nvim
 echo 'sudah berhasil'
-wget https://drive.google.com/file/d/1OTw853bgphZoGwAzWzRsQ0eZ8QAIWUVV/view?usp=sharing
 echo 'Download Berhasil Selesai!'
 nvim
 notify-send 'INI BUKTI KAMU HEBAT | Sekarang..Klik file install python!'

@@ -13,5 +13,6 @@ git clone https://github.com/NvChad/starter ~/.config/nvim
 echo 'sudah berhasil'
 wget https://drive.google.com/file/d/1OTw853bgphZoGwAzWzRsQ0eZ8QAIWUVV/view?usp=sharing
 echo 'Download Berhasil Selesai!'
-notify-send 'INI BUKTI KAMU HEBAT | Sekarang.. Silahkan buka NVIM di Terminal lalu abis itu, SETELAH SELESAI PROSES NYA, Klik file install python!'
-echo 'Selesai Buka NVIM di Terminal, Klik 2x pada file Install Python di Folder ini'
+nvim
+notify-send 'INI BUKTI KAMU HEBAT | Sekarang..Klik file install python!'
+echo 'Klik 2x pada file Install Python di Folder ini'
